@@ -1,0 +1,1 @@
+# `gclg <user>/<repo>` instead of `git clone git@github.com:<user>/<repo>.git`
